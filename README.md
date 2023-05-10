@@ -3,5 +3,5 @@ This is a JAVA project which simulates a CRN network scenario. Fuzzy Classificat
 
 # How to run this Model
 ## Install Eclipse (https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers)
-## Import this repository in Eclipse
+## Import this repository in Eclipse (https://www.youtube.com/watch?v=fKAm6BSmavI)
 ## Run Project.java file
