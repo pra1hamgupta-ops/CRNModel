@@ -1,5 +1,5 @@
 # CRNModel
-This is a JAVA project which simulates a CRN network scenario. Fuzzy Classification Model to classify Secondary Users are also integrated with the CRN model.
+This is a JAVA project which simulates a CRN network scenario. Fuzzy Classification Model to classify Secondary Users is also integrated with the CRN model.
 
 # How to run this Model
 ## Download repository
